@@ -1,0 +1,11 @@
+{
+  "name": "create-pdf-converter",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Skill-local dependencies for markdown to lightweight PDF conversion",
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "puppeteer": "^24.7.1"
+  }
+}
