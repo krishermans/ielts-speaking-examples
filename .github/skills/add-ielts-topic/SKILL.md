@@ -24,7 +24,7 @@ Each topic file must be Markdown and must include:
 
 - short introduction to the topic
 - vocabulary table with English terms and Dutch translations
-- 3 to 6 short questions with concise model answers
+- 3 to 6 short questions with concise model answers written in a Band 7.5 to 8 speaking style
 - 2 to 4 essay or discussion questions (with some suggested points to cover, but no full model answers)
 - Study tips or additional notes if relevant
 
@@ -36,6 +36,7 @@ Each topic file must be Markdown and must include:
 4. Keep answers concise, natural, and useful for spoken practice.
 5. Make Dutch translations idiomatic rather than word-for-word when needed.
 6. Keep tone simple and clean.
+7. Model answers must consistently target Band 7.5 to 8 quality: flexible vocabulary, clear opinion, natural linking, and varied sentence structures without sounding scripted.
 
 ## Workflow
 
@@ -45,3 +46,4 @@ Each topic file must be Markdown and must include:
 4. Add the new markdown file under `src/content/topics/`.
 5. If needed, update any documentation that lists authoring conventions.
 6. Follow the same structure and style as existing topic files for consistency. Arts.md is a good reference for formatting and tone.
+7. When drafting or refreshing short model answers, upgrade language level to Band 7.5 to 8 while keeping answers concise and natural for spoken delivery.
