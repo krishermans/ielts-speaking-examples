@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^pwsh -File \\.github/skills/create-pdf-converter/convert-topics-to-pdf\\.ps1$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
