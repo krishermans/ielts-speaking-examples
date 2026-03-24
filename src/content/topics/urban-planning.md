@@ -30,23 +30,23 @@ Urban planning is the process of deciding how space in a city should be used. It
 
 #### Q1: Why is urban planning important?
 
-Model answer: I think it is essential because cities cannot grow properly without a clear plan. Good urban planning helps manage traffic, housing, and public services, so daily life becomes more efficient and less stressful.
+Model answer: It is absolutely essential, because unplanned growth usually creates long-term problems. Effective planning coordinates housing, transport, and public services, which makes cities more efficient and far less stressful to live in.
 
 #### Q2: Would you like to live in a crowded city?
 
-Model answer: Not really, because crowded cities can feel noisy and tiring after a while. That said, they usually offer better job opportunities, entertainment, and transport, so I can understand why many people enjoy them.
+Model answer: Not in the long run, because constant noise and congestion can be mentally draining. Having said that, big cities often provide stronger career prospects, better public transport, and more cultural options, so the trade-off can be worth it for some people.
 
 #### Q3: Should cities focus more on beauty or functionality?
 
-Model answer: In my opinion, they need both. A city should work well in practical terms, but it should also look attractive, because pleasant surroundings can improve people's mood and make the city more appealing.
+Model answer: I would argue for a balance, but with functionality as the foundation. If transport and services do not work, visual appeal alone is meaningless; however, thoughtful design and attractive public spaces can still improve well-being and civic pride.
 
 #### Q4: Is it a good idea to replace old buildings with modern ones?
 
-Model answer: It depends on the building. If an old building has historical value, it should be protected, but if it is unsafe or no longer useful, replacing it might be the better option.
+Model answer: It depends entirely on context. Buildings with historical or cultural significance should be preserved where possible, but replacing unsafe or highly inefficient structures can be justified if the new development serves community needs.
 
 #### Q5: What makes a city pleasant to live in?
 
-Model answer: For me, the main things are reliable public transport, enough green spaces, and services that are easy to reach. A city also needs safe streets and affordable housing if people are going to enjoy living there.
+Model answer: For me, liveability comes down to accessibility, safety, and balance. A pleasant city offers reliable transport, walkable neighbourhoods, and sufficient green space, while also keeping housing reasonably affordable for ordinary residents.
 
 ### Essay Or Discussion Questions
 
